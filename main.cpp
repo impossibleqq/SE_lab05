@@ -8,13 +8,13 @@ int main()
     int a, b;
     cout << "Enter two integer numbers" << endl;
     cin >> a >> b;
-    int c;
-    c = a - b;
+    int c, f, x, d
+    c = a + b;
     cout << "a + b = " << c << endl;
-    c = a - b;
+    f = a - b;
     cout << "a - b = " << c << endl;
-    c = a * b;
-    cout << "a / b = " << c << endl;
-    c = a / b;
+    x = a * b;
     cout << "a * b = " << c << endl;
+    d = a / b;
+    cout << "a / b = " << c << endl;
 }
