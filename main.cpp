@@ -9,12 +9,12 @@ int main()
     cout << "Enter two integer numbers" << endl;
     cin >> a >> b;
     int c;
-    c = a + b;
-    cout << "a + b = " << c << endl;
     c = a - b;
     cout << "a - b = " << c << endl;
+    c = a - b;
+    cout << "a + b = " << c << endl;
     c = a * b;
-    cout << "a * b = " << c << endl;
+    cout << "a - b = " << c << endl;
     c = a / b;
     cout << "a / b = " << c << endl;
 }
